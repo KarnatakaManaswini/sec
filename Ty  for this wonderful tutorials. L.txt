@@ -1,0 +1,3 @@
+Ty  for this wonderful tutorials. Literally the best channel I found on youtube for Data Science. Have followed your guidelines since the beginning and it has helped me very much.
+Exercise Output: Learning Rate = 0.0002, m = 1.0177381667350405, b = 1.9150826165722297, Cost = 31.604511334602297, Previous Cost = 31.604511334602297,  Iteration = 415533
+PS: Try it in pycharm jupyter get's stuck after 91915 iterations.

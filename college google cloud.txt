@@ -1,0 +1,23 @@
+college google cloud
+
+username
+student-02-20865ff70f43@qwiklabs.net
+
+
+password
+V5Joi7MowXy0
+
+project id
+qwiklabs-gcp-01-db2dfa6cafdb
+
+
+
+
+
+
+Project name
+qwiklabs-gcp-01-db2dfa6cafdb
+Project number
+451923663895
+Project ID
+qwiklabs-gcp-01-db2dfa6cafdb
